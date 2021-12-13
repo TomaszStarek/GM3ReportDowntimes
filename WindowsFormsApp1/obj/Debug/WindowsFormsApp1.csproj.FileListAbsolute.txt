@@ -1,0 +1,168 @@
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_Form.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanieM0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_Form.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\odczytywanieM0 - zmiana wygladu 150621\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_form.resources
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_form.resources
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_form.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.start_awarii.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020_form.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.start_awarii.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja2\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020Form.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.start_awarii.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja3\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020Form.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\M0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartMenu.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseStationForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.G020Form.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Komentarz.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartMenu.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M0MainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M1MainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M3aMainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M3bMainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M4MainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M5MainForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InneForm.resources
+C:\Users\2281209\source\repos\MRAPORTY - wersja4\WSZYSTKIE ver2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.M2MainForm.resources
