@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         public M1MainForm()
         {
             InitializeComponent();
-            TimeCounter.SetTimer(label99);
+            TimeCounter.SetTimer(label1);
             this.FormBorderStyle = FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
         }

@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
             RoundedMinutesToTimer = Math.Round(totalMinutes);
 
             var changeControls = new ChangeControls();
-            changeControls.UpdateControl(_control, SystemColors.Control, RoundedMinutesToTimer.ToString(), true);
+            changeControls.UpdateControl(_control, RoundedMinutesToTimer.ToString(), true);
         }
 
     }

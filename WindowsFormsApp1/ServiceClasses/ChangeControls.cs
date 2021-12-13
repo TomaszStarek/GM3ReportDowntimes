@@ -26,17 +26,13 @@ namespace WindowsFormsApp1
             myControl.BackColor = c;
             myControl.Visible = widzialnosc;
         }
-
-        public void HideForms(Form form)
+        public void UpdateControl(Control myControl, String s, bool widzialnosc)
         {
-            Thread.Sleep(100);
-            foreach (Form item in Application.OpenForms)
-            {
-                if (item != form)
-                    item.Hide();
-            }
+            //Check if invoke requied if so return - as i will be recalled in correct thread
+            if (ControlInvokeRequired(myControl, () => UpdateControl(myControl, s, widzialnosc))) return;
+            myControl.Text = s;
+            myControl.Visible = widzialnosc;
         }
-
 
     }
 }
